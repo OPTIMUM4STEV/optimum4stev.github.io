@@ -1,0 +1,28 @@
+h1{
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*d3bqds*_ga*MTk3NzAyMjE0NS4xNjQwMTczODk5*_ga_3LRZM6TM9L*MTY2NTYwNTkwNS43NC4xLjE2NjU2MDc3OTAuMjYuMC4w");
+    text-align: centered;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+.Brush{
+    background-color: mediumspringgreen;
+    color: white;
+}
+
+.Frames{
+    background-color: lightcoral;
+    color: white
+}
+
+.Paint{
+    background-color: blueviolet;
+    color: white
+}
+
+body{
+    background-image: url("/images/IMG-20201216-WA0000.jpg");
+    opacity: 1;
+}
